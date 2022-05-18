@@ -20,7 +20,7 @@ class Recitations(models.Model):
     surat_time = models.CharField(max_length=100)
 
     class Meta:
-        ordering  = ('number',)
+        ordering  = ('id',)
 
     def __str__(self):
         return self.name

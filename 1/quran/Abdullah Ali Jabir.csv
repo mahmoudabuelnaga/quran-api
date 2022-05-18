@@ -1,115 +1,115 @@
-number;name;read_surat_link;download_surat_link;surat_time
-1;Surat  Al-Fatihah;https://www.quran.com/1;https://download.quranicaudio.com/quran/ali_jaber/001.mp3;01:03
-2;Surat  Al-Baqarah;https://www.quran.com/2;https://download.quranicaudio.com/quran/ali_jaber/002.mp3;02:10:36
-3;Surat  Ali 'Imran;https://www.quran.com/3;https://download.quranicaudio.com/quran/ali_jaber/003.mp3;01:14:28
-4;Surat  An-Nisa;https://www.quran.com/4;https://download.quranicaudio.com/quran/ali_jaber/004.mp3;01:18:09
-5;Surat  Al-Ma'idah;https://www.quran.com/5;https://download.quranicaudio.com/quran/ali_jaber/005.mp3;55:05
-6;Surat  Al-An'am;https://www.quran.com/6;https://download.quranicaudio.com/quran/ali_jaber/006.mp3;59:36
-7;Surat  Al-A'raf;https://www.quran.com/7;https://download.quranicaudio.com/quran/ali_jaber/007.mp3;01:05:06
-8;Surat  Al-Anfal;https://www.quran.com/8;https://download.quranicaudio.com/quran/ali_jaber/008.mp3;25:15
-9;Surat  At-Tawbah;https://www.quran.com/9;https://download.quranicaudio.com/quran/ali_jaber/009.mp3;50:46
-10;Surat  Yunus;https://www.quran.com/10;https://download.quranicaudio.com/quran/ali_jaber/010.mp3;37:37
-11;Surat  Hud;https://www.quran.com/11;https://download.quranicaudio.com/quran/ali_jaber/011.mp3;37:10
-12;Surat  Yusuf;https://www.quran.com/12;https://download.quranicaudio.com/quran/ali_jaber/012.mp3;34:47
-13;Surat  Ar-Ra'd;https://www.quran.com/13;https://download.quranicaudio.com/quran/ali_jaber/013.mp3;17:05
-14;Surat  Ibrahim;https://www.quran.com/14;https://download.quranicaudio.com/quran/ali_jaber/014.mp3;16:40
-15;Surat  Al-Hijr;https://www.quran.com/15;https://download.quranicaudio.com/quran/ali_jaber/015.mp3;14:24
-16;Surat  An-Nahl;https://www.quran.com/16;https://download.quranicaudio.com/quran/ali_jaber/016.mp3;36:25
-17;Surat  Al-Isra;https://www.quran.com/17;https://download.quranicaudio.com/quran/ali_jaber/017.mp3;29:23
-18;Surat  Al-Kahf;https://www.quran.com/18;https://download.quranicaudio.com/quran/ali_jaber/018.mp3;29:04
-19;Surat  Maryam;https://www.quran.com/19;https://download.quranicaudio.com/quran/ali_jaber/019.mp3;18:20
-20;Surat  Taha;https://www.quran.com/20;https://download.quranicaudio.com/quran/ali_jaber/020.mp3;23:52
-21;Surat  Al-Anbya;https://www.quran.com/21;https://download.quranicaudio.com/quran/ali_jaber/021.mp3;23:20
-22;Surat  Al-Haj;https://www.quran.com/22;https://download.quranicaudio.com/quran/ali_jaber/022.mp3;24:10
-23;Surat  Al-Mu'minun;https://www.quran.com/23;https://download.quranicaudio.com/quran/ali_jaber/023.mp3;22:53
-24;Surat  An-Nur;https://www.quran.com/24;https://download.quranicaudio.com/quran/ali_jaber/024.mp3;25:55
-25;Surat  Al-Furqan;https://www.quran.com/25;https://download.quranicaudio.com/quran/ali_jaber/025.mp3;17:25
-26;Surat  Ash-Shu'ara;https://www.quran.com/26;https://download.quranicaudio.com/quran/ali_jaber/026.mp3;25:50
-27;Surat  An-Naml;https://www.quran.com/27;https://download.quranicaudio.com/quran/ali_jaber/027.mp3;23:18
-28;Surat  Al-Qasas;https://www.quran.com/28;https://download.quranicaudio.com/quran/ali_jaber/028.mp3;27:05
-29;Surat  Al-'Ankabut;https://www.quran.com/29;https://download.quranicaudio.com/quran/ali_jaber/029.mp3;18:19
-30;Surat  Ar-Rum;https://www.quran.com/30;https://download.quranicaudio.com/quran/ali_jaber/030.mp3;15:25
-31;Surat  Luqman;https://www.quran.com/31;https://download.quranicaudio.com/quran/ali_jaber/031.mp3;09:59
-32;Surat  As-Sajdah;https://www.quran.com/32;https://download.quranicaudio.com/quran/ali_jaber/032.mp3;06:29
-33;Surat  Al-Ahzab;https://www.quran.com/33;https://download.quranicaudio.com/quran/ali_jaber/033.mp3;23:59
-34;Surat  Saba;https://www.quran.com/34;https://download.quranicaudio.com/quran/ali_jaber/034.mp3;15:13
-35;Surat  Fatir;https://www.quran.com/35;https://download.quranicaudio.com/quran/ali_jaber/035.mp3;14:07
-36;Surat  Ya-Sin;https://www.quran.com/36;https://download.quranicaudio.com/quran/ali_jaber/036.mp3;12:53
-37;Surat  As-Saffat;https://www.quran.com/37;https://download.quranicaudio.com/quran/ali_jaber/037.mp3;16:50
-38;Surat  Sad;https://www.quran.com/38;https://download.quranicaudio.com/quran/ali_jaber/038.mp3;12:47
-39;Surat  Az-Zumar;https://www.quran.com/39;https://download.quranicaudio.com/quran/ali_jaber/039.mp3;20:59
-40;Surat  Ghafir;https://www.quran.com/40;https://download.quranicaudio.com/quran/ali_jaber/040.mp3;21:35
-41;Surat  Fussilat;https://www.quran.com/41;https://download.quranicaudio.com/quran/ali_jaber/041.mp3;14:37
-42;Surat  Ash-Shuraa;https://www.quran.com/42;https://download.quranicaudio.com/quran/ali_jaber/042.mp3;15:23
-43;Surat  Az-Zukhruf;https://www.quran.com/43;https://download.quranicaudio.com/quran/ali_jaber/043.mp3;16:16
-44;Surat  Ad-Dukhan;https://www.quran.com/44;https://download.quranicaudio.com/quran/ali_jaber/044.mp3;06:38
-45;Surat  Al-Jathiyah;https://www.quran.com/45;https://download.quranicaudio.com/quran/ali_jaber/045.mp3;08:15
-46;Surat  Al-Ahqaf;https://www.quran.com/46;https://download.quranicaudio.com/quran/ali_jaber/046.mp3;10:54
-47;Surat  Muhammad;https://www.quran.com/47;https://download.quranicaudio.com/quran/ali_jaber/047.mp3;09:53
-48;Surat  Al-Fath;https://www.quran.com/48;https://download.quranicaudio.com/quran/ali_jaber/048.mp3;10:18
-49;Surat  Al-Hujurat;https://www.quran.com/49;https://download.quranicaudio.com/quran/ali_jaber/049.mp3;06:49
-50;Surat  Qaf;https://www.quran.com/50;https://download.quranicaudio.com/quran/ali_jaber/050.mp3;06:30
-51;Surat  Adh-Dhariyat;https://www.quran.com/51;https://download.quranicaudio.com/quran/ali_jaber/051.mp3;07:13
-52;Surat  At-Tur;https://www.quran.com/52;https://download.quranicaudio.com/quran/ali_jaber/052.mp3;06:17
-53;Surat  An-Najm;https://www.quran.com/53;https://download.quranicaudio.com/quran/ali_jaber/053.mp3;06:50
-54;Surat  Al-Qamar;https://www.quran.com/54;https://download.quranicaudio.com/quran/ali_jaber/054.mp3;07:02
-55;Surat  Ar-Rahman;https://www.quran.com/55;https://download.quranicaudio.com/quran/ali_jaber/055.mp3;09:05
-56;Surat  Al-Waqi'ah;https://www.quran.com/56;https://download.quranicaudio.com/quran/ali_jaber/056.mp3;08:48
-57;Surat  Al-Hadid;https://www.quran.com/57;https://download.quranicaudio.com/quran/ali_jaber/057.mp3;11:19
-58;Surat  Al-Mujadila;https://www.quran.com/58;https://download.quranicaudio.com/quran/ali_jaber/058.mp3;08:44
-59;Surat  Al-Hashr;https://www.quran.com/59;https://download.quranicaudio.com/quran/ali_jaber/059.mp3;08:17
-60;Surat  Al-Mumtahanah;https://www.quran.com/60;https://download.quranicaudio.com/quran/ali_jaber/060.mp3;06:48
-61;Surat  As-Saf;https://www.quran.com/61;https://download.quranicaudio.com/quran/ali_jaber/061.mp3;04:24
-62;Surat  Al-Jumu'ah;https://www.quran.com/62;https://download.quranicaudio.com/quran/ali_jaber/062.mp3;03:48
-63;Surat  Al-Munafiqun;https://www.quran.com/63;https://download.quranicaudio.com/quran/ali_jaber/063.mp3;03:56
-64;Surat  At-Taghabun;https://www.quran.com/64;https://download.quranicaudio.com/quran/ali_jaber/064.mp3;04:37
-65;Surat  At-Talaq;https://www.quran.com/65;https://download.quranicaudio.com/quran/ali_jaber/065.mp3;05:40
-66;Surat  At-Tahrim;https://www.quran.com/66;https://download.quranicaudio.com/quran/ali_jaber/066.mp3;04:55
-67;Surat  Al-Mulk;https://www.quran.com/67;https://download.quranicaudio.com/quran/ali_jaber/067.mp3;06:09
-68;Surat  Al-Qalam;https://www.quran.com/68;https://download.quranicaudio.com/quran/ali_jaber/068.mp3;05:42
-69;Surat  Al-Haqqah;https://www.quran.com/69;https://download.quranicaudio.com/quran/ali_jaber/069.mp3;05:22
-70;Surat  Al-Ma'arij;https://www.quran.com/70;https://download.quranicaudio.com/quran/ali_jaber/070.mp3;04:20
-71;Surat  Nuh;https://www.quran.com/71;https://download.quranicaudio.com/quran/ali_jaber/071.mp3;04:03
-72;Surat  Al-Jinn;https://www.quran.com/72;https://download.quranicaudio.com/quran/ali_jaber/072.mp3;04:42
-73;Surat  Al-Muzzammil;https://www.quran.com/73;https://download.quranicaudio.com/quran/ali_jaber/073.mp3;03:34
-74;Surat  Al-Muddaththir;https://www.quran.com/74;https://download.quranicaudio.com/quran/ali_jaber/074.mp3;04:27
-75;Surat  Al-Qiyamah;https://www.quran.com/75;https://download.quranicaudio.com/quran/ali_jaber/075.mp3;03:09
-76;Surat  Al-Insan;https://www.quran.com/76;https://download.quranicaudio.com/quran/ali_jaber/076.mp3;04:54
-77;Surat  Al-Mursalat;https://www.quran.com/77;https://download.quranicaudio.com/quran/ali_jaber/077.mp3;03:55
-78;Surat  An-Naba;https://www.quran.com/78;https://download.quranicaudio.com/quran/ali_jaber/078.mp3;04:21
-79;Surat  An-Nazi'at;https://www.quran.com/79;https://download.quranicaudio.com/quran/ali_jaber/079.mp3;04:02
-80;Surat  'Abasa;https://www.quran.com/80;https://download.quranicaudio.com/quran/ali_jaber/080.mp3;03:08
-81;Surat  At-Takwir;https://www.quran.com/81;https://download.quranicaudio.com/quran/ali_jaber/081.mp3;02:06
-82;Surat  Al-Infitar;https://www.quran.com/82;https://download.quranicaudio.com/quran/ali_jaber/082.mp3;01:36
-83;Surat  Al-Mutaffifin;https://www.quran.com/83;https://download.quranicaudio.com/quran/ali_jaber/083.mp3;03:33
-84;Surat  Al-Inshiqaq;https://www.quran.com/84;https://download.quranicaudio.com/quran/ali_jaber/084.mp3;02:08
-85;Surat  Al-Buruj;https://www.quran.com/85;https://download.quranicaudio.com/quran/ali_jaber/085.mp3;02:05
-86;Surat  At-Tariq;https://www.quran.com/86;https://download.quranicaudio.com/quran/ali_jaber/086.mp3;01:12
-87;Surat  Al-A'la;https://www.quran.com/87;https://download.quranicaudio.com/quran/ali_jaber/087.mp3;01:21
-88;Surat  Al-Ghashiyah;https://www.quran.com/88;https://download.quranicaudio.com/quran/ali_jaber/088.mp3;01:57
-89;Surat  Al-Fajr;https://www.quran.com/89;https://download.quranicaudio.com/quran/ali_jaber/089.mp3;02:46
-90;Surat  Al-Balad;https://www.quran.com/90;https://download.quranicaudio.com/quran/ali_jaber/090.mp3;01:37
-91;Surat  Ash-Shams;https://www.quran.com/91;https://download.quranicaudio.com/quran/ali_jaber/091.mp3;01:17
-92;Surat  Al-Layl;https://www.quran.com/92;https://download.quranicaudio.com/quran/ali_jaber/092.mp3;01:29
-93;Surat  Ad-Duhaa;https://www.quran.com/93;https://download.quranicaudio.com/quran/ali_jaber/093.mp3;00:53
-94;Surat  Ash-Sharh;https://www.quran.com/94;https://download.quranicaudio.com/quran/ali_jaber/094.mp3;00:31
-95;Surat  At-Tin;https://www.quran.com/95;https://download.quranicaudio.com/quran/ali_jaber/095.mp3;00:42
-96;Surat  Al-'Alaq;https://www.quran.com/96;https://download.quranicaudio.com/quran/ali_jaber/096.mp3;01:18
-97;Surat  Al-Qadr;https://www.quran.com/97;https://download.quranicaudio.com/quran/ali_jaber/097.mp3;00:34
-98;Surat  Al-Bayyinah;https://www.quran.com/98;https://download.quranicaudio.com/quran/ali_jaber/098.mp3;01:39
-99;Surat  Az-Zalzalah;https://www.quran.com/99;https://download.quranicaudio.com/quran/ali_jaber/099.mp3;00:44
-100;Surat  Al-'Adiyat;https://www.quran.com/100;https://download.quranicaudio.com/quran/ali_jaber/100.mp3;00:48
-101;Surat  Al-Qari'ah;https://www.quran.com/101;https://download.quranicaudio.com/quran/ali_jaber/101.mp3;00:46
-102;Surat  At-Takathur;https://www.quran.com/102;https://download.quranicaudio.com/quran/ali_jaber/102.mp3;00:36
-103;Surat  Al-'Asr;https://www.quran.com/103;https://download.quranicaudio.com/quran/ali_jaber/103.mp3;00:22
-104;Surat  Al-Humazah;https://www.quran.com/104;https://download.quranicaudio.com/quran/ali_jaber/104.mp3;00:40
-105;Surat  Al-Fil;https://www.quran.com/105;https://download.quranicaudio.com/quran/ali_jaber/105.mp3;00:31
-106;Surat  Quraysh;https://www.quran.com/106;https://download.quranicaudio.com/quran/ali_jaber/106.mp3;00:27
-107;Surat  Al-Ma'un;https://www.quran.com/107;https://download.quranicaudio.com/quran/ali_jaber/107.mp3;00:36
-108;Surat  Al-Kawthar;https://www.quran.com/108;https://download.quranicaudio.com/quran/ali_jaber/108.mp3;00:18
-109;Surat  Al-Kafirun;https://www.quran.com/109;https://download.quranicaudio.com/quran/ali_jaber/109.mp3;00:37
-110;Surat  An-Nasr;https://www.quran.com/110;https://download.quranicaudio.com/quran/ali_jaber/110.mp3;00:27
-111;Surat  Al-Masad;https://www.quran.com/111;https://download.quranicaudio.com/quran/ali_jaber/111.mp3;00:29
-112;Surat  Al-Ikhlas;https://www.quran.com/112;https://download.quranicaudio.com/quran/ali_jaber/112.mp3;00:18
-113;Surat  Al-Falaq;https://www.quran.com/113;https://download.quranicaudio.com/quran/ali_jaber/113.mp3;00:28
-114;Surat  An-Nas;https://www.quran.com/114;https://download.quranicaudio.com/quran/ali_jaber/114.mp3;00:39
+id,reader,number,name,read_surat_link,download_surat_link,surat_time
+,Abdullah Ali Jabir,1,Surat  Al-Fatihah,https://www.quran.com/1,https://download.quranicaudio.com/quran/ali_jaber/001.mp3,01:03
+,Abdullah Ali Jabir,2,Surat  Al-Baqarah,https://www.quran.com/2,https://download.quranicaudio.com/quran/ali_jaber/002.mp3,02:10:36
+,Abdullah Ali Jabir,3,Surat  Ali 'Imran,https://www.quran.com/3,https://download.quranicaudio.com/quran/ali_jaber/003.mp3,01:14:28
+,Abdullah Ali Jabir,4,Surat  An-Nisa,https://www.quran.com/4,https://download.quranicaudio.com/quran/ali_jaber/004.mp3,01:18:09
+,Abdullah Ali Jabir,5,Surat  Al-Ma'idah,https://www.quran.com/5,https://download.quranicaudio.com/quran/ali_jaber/005.mp3,55:05
+,Abdullah Ali Jabir,6,Surat  Al-An'am,https://www.quran.com/6,https://download.quranicaudio.com/quran/ali_jaber/006.mp3,59:36
+,Abdullah Ali Jabir,7,Surat  Al-A'raf,https://www.quran.com/7,https://download.quranicaudio.com/quran/ali_jaber/007.mp3,01:05:06
+,Abdullah Ali Jabir,8,Surat  Al-Anfal,https://www.quran.com/8,https://download.quranicaudio.com/quran/ali_jaber/008.mp3,25:15
+,Abdullah Ali Jabir,9,Surat  At-Tawbah,https://www.quran.com/9,https://download.quranicaudio.com/quran/ali_jaber/009.mp3,50:46
+,Abdullah Ali Jabir,10,Surat  Yunus,https://www.quran.com/10,https://download.quranicaudio.com/quran/ali_jaber/010.mp3,37:37
+,Abdullah Ali Jabir,11,Surat  Hud,https://www.quran.com/11,https://download.quranicaudio.com/quran/ali_jaber/011.mp3,37:10
+,Abdullah Ali Jabir,12,Surat  Yusuf,https://www.quran.com/12,https://download.quranicaudio.com/quran/ali_jaber/012.mp3,34:47
+,Abdullah Ali Jabir,13,Surat  Ar-Ra'd,https://www.quran.com/13,https://download.quranicaudio.com/quran/ali_jaber/013.mp3,17:05
+,Abdullah Ali Jabir,14,Surat  Ibrahim,https://www.quran.com/14,https://download.quranicaudio.com/quran/ali_jaber/014.mp3,16:40
+,Abdullah Ali Jabir,15,Surat  Al-Hijr,https://www.quran.com/15,https://download.quranicaudio.com/quran/ali_jaber/015.mp3,14:24
+,Abdullah Ali Jabir,16,Surat  An-Nahl,https://www.quran.com/16,https://download.quranicaudio.com/quran/ali_jaber/016.mp3,36:25
+,Abdullah Ali Jabir,17,Surat  Al-Isra,https://www.quran.com/17,https://download.quranicaudio.com/quran/ali_jaber/017.mp3,29:23
+,Abdullah Ali Jabir,18,Surat  Al-Kahf,https://www.quran.com/18,https://download.quranicaudio.com/quran/ali_jaber/018.mp3,29:04
+,Abdullah Ali Jabir,19,Surat  Maryam,https://www.quran.com/19,https://download.quranicaudio.com/quran/ali_jaber/019.mp3,18:20
+,Abdullah Ali Jabir,20,Surat  Taha,https://www.quran.com/20,https://download.quranicaudio.com/quran/ali_jaber/020.mp3,23:52
+,Abdullah Ali Jabir,21,Surat  Al-Anbya,https://www.quran.com/21,https://download.quranicaudio.com/quran/ali_jaber/021.mp3,23:20
+,Abdullah Ali Jabir,22,Surat  Al-Haj,https://www.quran.com/22,https://download.quranicaudio.com/quran/ali_jaber/022.mp3,24:10
+,Abdullah Ali Jabir,23,Surat  Al-Mu'minun,https://www.quran.com/23,https://download.quranicaudio.com/quran/ali_jaber/023.mp3,22:53
+,Abdullah Ali Jabir,24,Surat  An-Nur,https://www.quran.com/24,https://download.quranicaudio.com/quran/ali_jaber/024.mp3,25:55
+,Abdullah Ali Jabir,25,Surat  Al-Furqan,https://www.quran.com/25,https://download.quranicaudio.com/quran/ali_jaber/025.mp3,17:25
+,Abdullah Ali Jabir,26,Surat  Ash-Shu'ara,https://www.quran.com/26,https://download.quranicaudio.com/quran/ali_jaber/026.mp3,25:50
+,Abdullah Ali Jabir,27,Surat  An-Naml,https://www.quran.com/27,https://download.quranicaudio.com/quran/ali_jaber/027.mp3,23:18
+,Abdullah Ali Jabir,28,Surat  Al-Qasas,https://www.quran.com/28,https://download.quranicaudio.com/quran/ali_jaber/028.mp3,27:05
+,Abdullah Ali Jabir,29,Surat  Al-'Ankabut,https://www.quran.com/29,https://download.quranicaudio.com/quran/ali_jaber/029.mp3,18:19
+,Abdullah Ali Jabir,30,Surat  Ar-Rum,https://www.quran.com/30,https://download.quranicaudio.com/quran/ali_jaber/030.mp3,15:25
+,Abdullah Ali Jabir,31,Surat  Luqman,https://www.quran.com/31,https://download.quranicaudio.com/quran/ali_jaber/031.mp3,09:59
+,Abdullah Ali Jabir,32,Surat  As-Sajdah,https://www.quran.com/32,https://download.quranicaudio.com/quran/ali_jaber/032.mp3,06:29
+,Abdullah Ali Jabir,33,Surat  Al-Ahzab,https://www.quran.com/33,https://download.quranicaudio.com/quran/ali_jaber/033.mp3,23:59
+,Abdullah Ali Jabir,34,Surat  Saba,https://www.quran.com/34,https://download.quranicaudio.com/quran/ali_jaber/034.mp3,15:13
+,Abdullah Ali Jabir,35,Surat  Fatir,https://www.quran.com/35,https://download.quranicaudio.com/quran/ali_jaber/035.mp3,14:07
+,Abdullah Ali Jabir,36,Surat  Ya-Sin,https://www.quran.com/36,https://download.quranicaudio.com/quran/ali_jaber/036.mp3,12:53
+,Abdullah Ali Jabir,37,Surat  As-Saffat,https://www.quran.com/37,https://download.quranicaudio.com/quran/ali_jaber/037.mp3,16:50
+,Abdullah Ali Jabir,38,Surat  Sad,https://www.quran.com/38,https://download.quranicaudio.com/quran/ali_jaber/038.mp3,12:47
+,Abdullah Ali Jabir,39,Surat  Az-Zumar,https://www.quran.com/39,https://download.quranicaudio.com/quran/ali_jaber/039.mp3,20:59
+,Abdullah Ali Jabir,40,Surat  Ghafir,https://www.quran.com/40,https://download.quranicaudio.com/quran/ali_jaber/040.mp3,21:35
+,Abdullah Ali Jabir,41,Surat  Fussilat,https://www.quran.com/41,https://download.quranicaudio.com/quran/ali_jaber/041.mp3,14:37
+,Abdullah Ali Jabir,42,Surat  Ash-Shuraa,https://www.quran.com/42,https://download.quranicaudio.com/quran/ali_jaber/042.mp3,15:23
+,Abdullah Ali Jabir,43,Surat  Az-Zukhruf,https://www.quran.com/43,https://download.quranicaudio.com/quran/ali_jaber/043.mp3,16:16
+,Abdullah Ali Jabir,44,Surat  Ad-Dukhan,https://www.quran.com/44,https://download.quranicaudio.com/quran/ali_jaber/044.mp3,06:38
+,Abdullah Ali Jabir,45,Surat  Al-Jathiyah,https://www.quran.com/45,https://download.quranicaudio.com/quran/ali_jaber/045.mp3,08:15
+,Abdullah Ali Jabir,46,Surat  Al-Ahqaf,https://www.quran.com/46,https://download.quranicaudio.com/quran/ali_jaber/046.mp3,10:54
+,Abdullah Ali Jabir,47,Surat  Muhammad,https://www.quran.com/47,https://download.quranicaudio.com/quran/ali_jaber/047.mp3,09:53
+,Abdullah Ali Jabir,48,Surat  Al-Fath,https://www.quran.com/48,https://download.quranicaudio.com/quran/ali_jaber/048.mp3,10:18
+,Abdullah Ali Jabir,49,Surat  Al-Hujurat,https://www.quran.com/49,https://download.quranicaudio.com/quran/ali_jaber/049.mp3,06:49
+,Abdullah Ali Jabir,50,Surat  Qaf,https://www.quran.com/50,https://download.quranicaudio.com/quran/ali_jaber/050.mp3,06:30
+,Abdullah Ali Jabir,51,Surat  Adh-Dhariyat,https://www.quran.com/51,https://download.quranicaudio.com/quran/ali_jaber/051.mp3,07:13
+,Abdullah Ali Jabir,52,Surat  At-Tur,https://www.quran.com/52,https://download.quranicaudio.com/quran/ali_jaber/052.mp3,06:17
+,Abdullah Ali Jabir,53,Surat  An-Najm,https://www.quran.com/53,https://download.quranicaudio.com/quran/ali_jaber/053.mp3,06:50
+,Abdullah Ali Jabir,54,Surat  Al-Qamar,https://www.quran.com/54,https://download.quranicaudio.com/quran/ali_jaber/054.mp3,07:02
+,Abdullah Ali Jabir,55,Surat  Ar-Rahman,https://www.quran.com/55,https://download.quranicaudio.com/quran/ali_jaber/055.mp3,09:05
+,Abdullah Ali Jabir,56,Surat  Al-Waqi'ah,https://www.quran.com/56,https://download.quranicaudio.com/quran/ali_jaber/056.mp3,08:48
+,Abdullah Ali Jabir,57,Surat  Al-Hadid,https://www.quran.com/57,https://download.quranicaudio.com/quran/ali_jaber/057.mp3,11:19
+,Abdullah Ali Jabir,58,Surat  Al-Mujadila,https://www.quran.com/58,https://download.quranicaudio.com/quran/ali_jaber/058.mp3,08:44
+,Abdullah Ali Jabir,59,Surat  Al-Hashr,https://www.quran.com/59,https://download.quranicaudio.com/quran/ali_jaber/059.mp3,08:17
+,Abdullah Ali Jabir,60,Surat  Al-Mumtahanah,https://www.quran.com/60,https://download.quranicaudio.com/quran/ali_jaber/060.mp3,06:48
+,Abdullah Ali Jabir,61,Surat  As-Saf,https://www.quran.com/61,https://download.quranicaudio.com/quran/ali_jaber/061.mp3,04:24
+,Abdullah Ali Jabir,62,Surat  Al-Jumu'ah,https://www.quran.com/62,https://download.quranicaudio.com/quran/ali_jaber/062.mp3,03:48
+,Abdullah Ali Jabir,63,Surat  Al-Munafiqun,https://www.quran.com/63,https://download.quranicaudio.com/quran/ali_jaber/063.mp3,03:56
+,Abdullah Ali Jabir,64,Surat  At-Taghabun,https://www.quran.com/64,https://download.quranicaudio.com/quran/ali_jaber/064.mp3,04:37
+,Abdullah Ali Jabir,65,Surat  At-Talaq,https://www.quran.com/65,https://download.quranicaudio.com/quran/ali_jaber/065.mp3,05:40
+,Abdullah Ali Jabir,66,Surat  At-Tahrim,https://www.quran.com/66,https://download.quranicaudio.com/quran/ali_jaber/066.mp3,04:55
+,Abdullah Ali Jabir,67,Surat  Al-Mulk,https://www.quran.com/67,https://download.quranicaudio.com/quran/ali_jaber/067.mp3,06:09
+,Abdullah Ali Jabir,68,Surat  Al-Qalam,https://www.quran.com/68,https://download.quranicaudio.com/quran/ali_jaber/068.mp3,05:42
+,Abdullah Ali Jabir,69,Surat  Al-Haqqah,https://www.quran.com/69,https://download.quranicaudio.com/quran/ali_jaber/069.mp3,05:22
+,Abdullah Ali Jabir,70,Surat  Al-Ma'arij,https://www.quran.com/70,https://download.quranicaudio.com/quran/ali_jaber/070.mp3,04:20
+,Abdullah Ali Jabir,71,Surat  Nuh,https://www.quran.com/71,https://download.quranicaudio.com/quran/ali_jaber/071.mp3,04:03
+,Abdullah Ali Jabir,72,Surat  Al-Jinn,https://www.quran.com/72,https://download.quranicaudio.com/quran/ali_jaber/072.mp3,04:42
+,Abdullah Ali Jabir,73,Surat  Al-Muzzammil,https://www.quran.com/73,https://download.quranicaudio.com/quran/ali_jaber/073.mp3,03:34
+,Abdullah Ali Jabir,74,Surat  Al-Muddaththir,https://www.quran.com/74,https://download.quranicaudio.com/quran/ali_jaber/074.mp3,04:27
+,Abdullah Ali Jabir,75,Surat  Al-Qiyamah,https://www.quran.com/75,https://download.quranicaudio.com/quran/ali_jaber/075.mp3,03:09
+,Abdullah Ali Jabir,76,Surat  Al-Insan,https://www.quran.com/76,https://download.quranicaudio.com/quran/ali_jaber/076.mp3,04:54
+,Abdullah Ali Jabir,77,Surat  Al-Mursalat,https://www.quran.com/77,https://download.quranicaudio.com/quran/ali_jaber/077.mp3,03:55
+,Abdullah Ali Jabir,78,Surat  An-Naba,https://www.quran.com/78,https://download.quranicaudio.com/quran/ali_jaber/078.mp3,04:21
+,Abdullah Ali Jabir,79,Surat  An-Nazi'at,https://www.quran.com/79,https://download.quranicaudio.com/quran/ali_jaber/079.mp3,04:02
+,Abdullah Ali Jabir,80,Surat  'Abasa,https://www.quran.com/80,https://download.quranicaudio.com/quran/ali_jaber/080.mp3,03:08
+,Abdullah Ali Jabir,81,Surat  At-Takwir,https://www.quran.com/81,https://download.quranicaudio.com/quran/ali_jaber/081.mp3,02:06
+,Abdullah Ali Jabir,82,Surat  Al-Infitar,https://www.quran.com/82,https://download.quranicaudio.com/quran/ali_jaber/082.mp3,01:36
+,Abdullah Ali Jabir,83,Surat  Al-Mutaffifin,https://www.quran.com/83,https://download.quranicaudio.com/quran/ali_jaber/083.mp3,03:33
+,Abdullah Ali Jabir,84,Surat  Al-Inshiqaq,https://www.quran.com/84,https://download.quranicaudio.com/quran/ali_jaber/084.mp3,02:08
+,Abdullah Ali Jabir,85,Surat  Al-Buruj,https://www.quran.com/85,https://download.quranicaudio.com/quran/ali_jaber/085.mp3,02:05
+,Abdullah Ali Jabir,86,Surat  At-Tariq,https://www.quran.com/86,https://download.quranicaudio.com/quran/ali_jaber/086.mp3,01:12
+,Abdullah Ali Jabir,87,Surat  Al-A'la,https://www.quran.com/87,https://download.quranicaudio.com/quran/ali_jaber/087.mp3,01:21
+,Abdullah Ali Jabir,88,Surat  Al-Ghashiyah,https://www.quran.com/88,https://download.quranicaudio.com/quran/ali_jaber/088.mp3,01:57
+,Abdullah Ali Jabir,89,Surat  Al-Fajr,https://www.quran.com/89,https://download.quranicaudio.com/quran/ali_jaber/089.mp3,02:46
+,Abdullah Ali Jabir,90,Surat  Al-Balad,https://www.quran.com/90,https://download.quranicaudio.com/quran/ali_jaber/090.mp3,01:37
+,Abdullah Ali Jabir,91,Surat  Ash-Shams,https://www.quran.com/91,https://download.quranicaudio.com/quran/ali_jaber/091.mp3,01:17
+,Abdullah Ali Jabir,92,Surat  Al-Layl,https://www.quran.com/92,https://download.quranicaudio.com/quran/ali_jaber/092.mp3,01:29
+,Abdullah Ali Jabir,93,Surat  Ad-Duhaa,https://www.quran.com/93,https://download.quranicaudio.com/quran/ali_jaber/093.mp3,00:53
+,Abdullah Ali Jabir,94,Surat  Ash-Sharh,https://www.quran.com/94,https://download.quranicaudio.com/quran/ali_jaber/094.mp3,00:31
+,Abdullah Ali Jabir,95,Surat  At-Tin,https://www.quran.com/95,https://download.quranicaudio.com/quran/ali_jaber/095.mp3,00:42
+,Abdullah Ali Jabir,96,Surat  Al-'Alaq,https://www.quran.com/96,https://download.quranicaudio.com/quran/ali_jaber/096.mp3,01:18
+,Abdullah Ali Jabir,97,Surat  Al-Qadr,https://www.quran.com/97,https://download.quranicaudio.com/quran/ali_jaber/097.mp3,00:34
+,Abdullah Ali Jabir,98,Surat  Al-Bayyinah,https://www.quran.com/98,https://download.quranicaudio.com/quran/ali_jaber/098.mp3,01:39
+,Abdullah Ali Jabir,99,Surat  Az-Zalzalah,https://www.quran.com/99,https://download.quranicaudio.com/quran/ali_jaber/099.mp3,00:44
+,Abdullah Ali Jabir,100,Surat  Al-'Adiyat,https://www.quran.com/100,https://download.quranicaudio.com/quran/ali_jaber/100.mp3,00:48
+,Abdullah Ali Jabir,101,Surat  Al-Qari'ah,https://www.quran.com/101,https://download.quranicaudio.com/quran/ali_jaber/101.mp3,00:46
+,Abdullah Ali Jabir,102,Surat  At-Takathur,https://www.quran.com/102,https://download.quranicaudio.com/quran/ali_jaber/102.mp3,00:36
+,Abdullah Ali Jabir,103,Surat  Al-'Asr,https://www.quran.com/103,https://download.quranicaudio.com/quran/ali_jaber/103.mp3,00:22
+,Abdullah Ali Jabir,104,Surat  Al-Humazah,https://www.quran.com/104,https://download.quranicaudio.com/quran/ali_jaber/104.mp3,00:40
+,Abdullah Ali Jabir,105,Surat  Al-Fil,https://www.quran.com/105,https://download.quranicaudio.com/quran/ali_jaber/105.mp3,00:31
+,Abdullah Ali Jabir,106,Surat  Quraysh,https://www.quran.com/106,https://download.quranicaudio.com/quran/ali_jaber/106.mp3,00:27
+,Abdullah Ali Jabir,107,Surat  Al-Ma'un,https://www.quran.com/107,https://download.quranicaudio.com/quran/ali_jaber/107.mp3,00:36
+,Abdullah Ali Jabir,108,Surat  Al-Kawthar,https://www.quran.com/108,https://download.quranicaudio.com/quran/ali_jaber/108.mp3,00:18
+,Abdullah Ali Jabir,109,Surat  Al-Kafirun,https://www.quran.com/109,https://download.quranicaudio.com/quran/ali_jaber/109.mp3,00:37
+,Abdullah Ali Jabir,110,Surat  An-Nasr,https://www.quran.com/110,https://download.quranicaudio.com/quran/ali_jaber/110.mp3,00:27
+,Abdullah Ali Jabir,111,Surat  Al-Masad,https://www.quran.com/111,https://download.quranicaudio.com/quran/ali_jaber/111.mp3,00:29
+,Abdullah Ali Jabir,112,Surat  Al-Ikhlas,https://www.quran.com/112,https://download.quranicaudio.com/quran/ali_jaber/112.mp3,00:18
+,Abdullah Ali Jabir,113,Surat  Al-Falaq,https://www.quran.com/113,https://download.quranicaudio.com/quran/ali_jaber/113.mp3,00:28
+,Abdullah Ali Jabir,114,Surat  An-Nas,https://www.quran.com/114,https://download.quranicaudio.com/quran/ali_jaber/114.mp3,00:39
