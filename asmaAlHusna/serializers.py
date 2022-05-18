@@ -5,4 +5,4 @@ from .models import AsmaAlHusna
 class AsmaalhusnaSerializer(serializers.ModelSerializer):
     class Meta:
         model = AsmaAlHusna
-        fields = ['id', 'number','name', 'transliteration', 'meaning']
+        fields = ['number','name', 'transliteration', 'meaning']

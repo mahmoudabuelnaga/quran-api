@@ -4,7 +4,7 @@ from django.db import models
 # Create your models here.
 
 class AsmaAlHusna(models.Model):
-    number = models.PositiveIntegerField(unique=True)
+    number = models.IntegerField(primary_key=True)
     name = models.CharField(max_length=250)
     transliteration = models.CharField(max_length=250)
     meaning = models.CharField(max_length=250)
