@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'quran.apps.QuranConfig',
     'asmaAlHusna.apps.AsmaalhusnaConfig',
+    'broadcasting.apps.BroadcastingConfig',
     'import_export',
     'rest_framework',
     'django_filters',
