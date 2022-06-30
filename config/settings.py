@@ -40,13 +40,16 @@ INSTALLED_APPS = [
     'quran.apps.QuranConfig',
     'asmaAlHusna.apps.AsmaalhusnaConfig',
     'broadcasting.apps.BroadcastingConfig',
+    'categories.apps.CategoriesConfig',
     'import_export',
     'rest_framework',
     'django_filters',
     'drf_yasg',
+    "corsheaders",
 ]
 
 MIDDLEWARE = [
+    "corsheaders.middleware.CorsMiddleware",
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -81,9 +84,17 @@ WSGI_APPLICATION = 'config.wsgi.application'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
 DATABASES = {
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.sqlite3',
+    #     'NAME': BASE_DIR / 'db.sqlite3',
+    # }
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'QuranAPI',
+        'USER': 'postgres',
+        'PASSWORD': '1751998',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
@@ -138,3 +149,5 @@ REST_FRAMEWORK = {
 }
 
 LOGOUT_REDIRECT_URL = 'swagger/'
+
+CORS_ALLOW_ALL_ORIGINS = True
