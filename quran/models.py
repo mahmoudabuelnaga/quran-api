@@ -10,7 +10,7 @@ class Reader(models.Model):
         ordering  = ('name',)
 
     def __str__(self):
-        return self.name
+        return self.name_ar
 
 class Recitations(models.Model):
     reader = models.ForeignKey(Reader, on_delete=models.CASCADE, related_name='recitations')
@@ -25,4 +25,4 @@ class Recitations(models.Model):
         ordering  = ('id',)
 
     def __str__(self):
-        return self.name
+        return self.name_ar

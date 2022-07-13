@@ -7,7 +7,6 @@ from import_export.admin import ImportExportModelAdmin
 class ReaderAdmin(ImportExportModelAdmin, admin.ModelAdmin):
     list_display = ['name', 'name_ar',]
     search_fields = ['name', 'name_ar',]
-    # list_editable = ['name', 'name_ar',]
 
 
 @admin.register(Recitations)
