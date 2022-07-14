@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'django_filters',
     'drf_yasg',
     "corsheaders",
+    "tinymce",
 ]
 
 MIDDLEWARE = [

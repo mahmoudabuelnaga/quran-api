@@ -37,6 +37,7 @@ schema_view = get_schema_view(
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('tinymce/', include('tinymce.urls')),
     path('quran/api/', include('quran.urls')),
     path('asmaalhusna/api/', include('asmaAlHusna.urls')),
     path('radio/api/', include('broadcasting.urls')),
